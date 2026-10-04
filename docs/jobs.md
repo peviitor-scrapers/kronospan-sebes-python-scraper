@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, MUN. SEBEŞ, STR. MIHAIL KOGALNICEANU, NR.59 |
 | Website | [https://kronospan.com](https://kronospan.com) |
 | Careers | [https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473](https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473) |
-| Last Scraped | 2026-10-03 |
+| Last Scraped | 2026-10-04 |
 
 ## Current Job Listings (6)
 
-_Generated: 2026-10-03T11:31:56.269450+00:00_
+_Generated: 2026-10-04T12:13:00.449308+00:00_
 
 ### Mecanic/Mechanic M/F
 
