@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, MUN. SEBEŞ, STR. MIHAIL KOGALNICEANU, NR.59 |
 | Website | [https://kronospan.com](https://kronospan.com) |
 | Careers | [https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473](https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473) |
-| Last Scraped | 2026-10-04 |
+| Last Scraped | 2026-10-05 |
 
-## Current Job Listings (6)
+## Current Job Listings (5)
 
-_Generated: 2026-10-04T12:13:00.449308+00:00_
+_Generated: 2026-10-05T14:24:09.529455+00:00_
 
 ### Mecanic/Mechanic M/F
 
@@ -33,13 +33,6 @@ _Generated: 2026-10-04T12:13:00.449308+00:00_
 ### Strungar / planer
 
 - **URL:** [https://kronospan-candidate.talent-soft.com/job/job-strungar-planer_13989.aspx](https://kronospan-candidate.talent-soft.com/job/job-strungar-planer_13989.aspx)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### Manager Comercial - Fabrica de cherestea
-
-- **URL:** [https://kronospan-candidate.talent-soft.com/job/job-manager-comercial-fabrica-de-cherestea_13881.aspx](https://kronospan-candidate.talent-soft.com/job/job-manager-comercial-fabrica-de-cherestea_13881.aspx)
 - **Work Mode:** on-site
 - **Location:** România
 - **Status:** scraped
