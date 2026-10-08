@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-10-07T13:09:51.906125+00:00",
+  "validatedAt": "2026-10-08T13:17:02.922160+00:00",
   "source": "ANAF",
   "brand": "Kronospan",
   "anaf": {
@@ -70,9 +70,9 @@
     "career": [
       "https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473"
     ],
-    "lastScraped": "2026-10-06",
+    "lastScraped": "2026-10-07",
     "scraperFile": "https://github.com/peviitor-scrapers/kronospan-sebes-python-scraper/actions/workflows/scrape.yml",
-    "_version_": 1878306148813111296,
+    "_version_": 1878396598595092480,
     "_root_": "11358544"
   },
   "summary": {

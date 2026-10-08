@@ -10,39 +10,11 @@
 | Location | JUD. ALBA, MUN. SEBEŞ, STR. MIHAIL KOGALNICEANU, NR.59 |
 | Website | [https://kronospan.com](https://kronospan.com) |
 | Careers | [https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473](https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473) |
-| Last Scraped | 2026-10-07 |
+| Last Scraped | 2026-10-08 |
 
-## Current Job Listings (5)
+## Current Job Listings (1)
 
-_Generated: 2026-10-07T13:09:57.180256+00:00_
-
-### Mecanic/Mechanic M/F
-
-- **URL:** [https://kronospan-candidate.talent-soft.com/job/job-mecanic-mechanic-m-f_13901.aspx](https://kronospan-candidate.talent-soft.com/job/job-mecanic-mechanic-m-f_13901.aspx)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### Sudor / Welder
-
-- **URL:** [https://kronospan-candidate.talent-soft.com/job/job-sudor-welder_12773.aspx](https://kronospan-candidate.talent-soft.com/job/job-sudor-welder_12773.aspx)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### Strungar / planer
-
-- **URL:** [https://kronospan-candidate.talent-soft.com/job/job-strungar-planer_13989.aspx](https://kronospan-candidate.talent-soft.com/job/job-strungar-planer_13989.aspx)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
-
-### Electrician
-
-- **URL:** [https://kronospan-candidate.talent-soft.com/job/job-electrician-_13675.aspx](https://kronospan-candidate.talent-soft.com/job/job-electrician-_13675.aspx)
-- **Work Mode:** on-site
-- **Location:** România
-- **Status:** scraped
+_Generated: 2026-10-08T13:17:06.702594+00:00_
 
 ### Inginer chimist – instalația de formaldehidă / Formalin Production
 
