@@ -10,11 +10,11 @@
 | Location | JUD. ALBA, MUN. SEBEŞ, STR. MIHAIL KOGALNICEANU, NR.59 |
 | Website | [https://kronospan.com](https://kronospan.com) |
 | Careers | [https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473](https://kronospan-candidate.talent-soft.com/pages/offre/listeoffre.aspx?lcid=1048&facet_Entity=473) |
-| Last Scraped | 2026-11-07 |
+| Last Scraped | 2026-11-08 |
 
 ## Current Job Listings (1)
 
-_Generated: 2026-11-07T12:50:57.671770+00:00_
+_Generated: 2026-11-08T13:11:53.386167+00:00_
 
 ### Inginer chimist – instalația de formaldehidă / Formalin Production
 
