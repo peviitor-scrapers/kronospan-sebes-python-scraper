@@ -14,7 +14,7 @@
 
 ## Current Job Listings (1)
 
-_Generated: 2026-11-14T13:22:40.285446+00:00_
+_Generated: 2026-11-14T15:05:11.821860+00:00_
 
 ### Inginer chimist – instalația de formaldehidă / Formalin Production
 
